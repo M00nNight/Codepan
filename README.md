@@ -22,6 +22,7 @@ Here're some of the project's best features:
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Copy the git repo</p>
+copy the repo and and run in your local machine
 
 ```
 https://github.com/M00nNight/Codepan.git
